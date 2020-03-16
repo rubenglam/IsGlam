@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2020-02-27 20:51:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-21 19:03:44 +0100"
@@ -128,6 +134,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-02-19 19:17:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-02-26 21:47:33 +0100"
     },
     "done": true
   },
@@ -498,6 +510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-02-26 18:43:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2020-02-24 22:55:34 +0100"
@@ -612,6 +630,12 @@
     "criteria": {
       "has_iron_boots": "2020-02-19 18:09:58 +0100",
       "has_iron_helmet": "2020-02-19 18:09:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2020-02-27 20:51:13 +0100"
     },
     "done": true
   },
@@ -882,6 +906,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-02-20 22:56:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-02-26 18:43:14 +0100"
     },
     "done": true
   },
@@ -1318,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2020-02-27 20:51:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2020-02-21 17:34:59 +0100"
@@ -1534,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-02-26 21:58:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2020-02-21 22:22:39 +0100"
@@ -1573,6 +1615,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-02-21 16:36:42 +0100",
+      "cooked_mutton": "2020-02-27 22:11:40 +0100",
       "cooked_beef": "2020-02-21 16:05:00 +0100",
       "chorus_fruit": "2020-02-24 22:55:48 +0100",
       "baked_potato": "2020-02-23 21:43:01 +0100",
@@ -1587,7 +1630,8 @@
       "dried_kelp": "2020-02-19 18:52:23 +0100",
       "salmon": "2020-02-21 23:47:42 +0100",
       "cod": "2020-02-21 18:55:57 +0100",
-      "cooked_salmon": "2020-02-21 22:49:13 +0100"
+      "cooked_salmon": "2020-02-21 22:49:13 +0100",
+      "carrot": "2020-02-26 20:29:31 +0100"
     },
     "done": false
   },
@@ -2249,6 +2293,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-02-21 21:57:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-02-26 18:43:14 +0100"
     },
     "done": true
   },

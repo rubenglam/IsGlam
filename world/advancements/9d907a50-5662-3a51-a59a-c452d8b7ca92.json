@@ -299,7 +299,8 @@
       "cooked_mutton": "2020-02-24 20:42:55 +0100",
       "cooked_beef": "2020-02-23 19:04:00 +0100",
       "baked_potato": "2020-02-23 18:27:09 +0100",
-      "bread": "2020-02-24 20:21:29 +0100"
+      "bread": "2020-02-24 20:21:29 +0100",
+      "cooked_chicken": "2020-02-27 21:39:52 +0100"
     },
     "done": false
   },
@@ -1438,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-02-27 20:54:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-02-23 18:27:41 +0100"
@@ -1477,6 +1484,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-02-23 20:03:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-02-27 21:20:28 +0100"
     },
     "done": true
   },
@@ -1555,6 +1568,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2020-02-23 22:14:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2020-02-27 21:39:45 +0100"
     },
     "done": true
   },
