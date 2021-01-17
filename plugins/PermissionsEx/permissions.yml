@@ -1,8 +1,0 @@
-groups:
-  default:
-    options:
-      default: true
-    permissions:
-    - modifyworld.*
-    - myskin.skincommand.self
-schema-version: 1
