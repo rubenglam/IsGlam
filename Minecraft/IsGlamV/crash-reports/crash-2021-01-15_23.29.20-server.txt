@@ -1,0 +1,54 @@
+---- Minecraft Crash Report ----
+// I let you down. Sorry :(
+
+Time: 15/01/21 23:29
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+	at net.minecraft.network.play.server.SPacketChunkData.<init>(SourceFile:39)
+	at net.minecraft.server.management.PlayerChunkMapEntry.func_187278_c(PlayerChunkMapEntry.java:175)
+	at net.minecraft.server.management.PlayerChunkMapEntry.func_187276_a(PlayerChunkMapEntry.java:74)
+	at net.minecraft.server.management.PlayerChunkMap.func_72683_a(SourceFile:227)
+	at net.minecraft.server.management.PlayerList.func_72375_a(PlayerList.java:290)
+	at net.minecraft.server.management.PlayerList.func_72377_c(PlayerList.java:378)
+	at net.minecraft.server.management.PlayerList.initializeConnectionToPlayer(PlayerList.java:166)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:255)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.access$100(NetworkDispatcher.java:72)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:205)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_271, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode, sharing), Oracle Corporation
+	Memory: 31896 bytes (0 MB) / 259522560 bytes (247 MB) up to 259522560 bytes (247 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID        | Version      | Source                              | Signature                                |
+	|:------ |:--------- |:------------ |:----------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft | 1.12.2       | minecraft.jar                       | None                                     |
+	| LCHIJA | mcp       | 9.42         | minecraft.jar                       | None                                     |
+	| LCHIJA | FML       | 8.0.99.99    | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge     | 14.23.5.2854 | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | pixelmon  | 8.1.2        | Pixelmon-1.12.2-8.1.2-universal.jar | None                                     |
+
+	Loaded coremods (and transformers): 
+	Profiler Position: N/A (disabled)
+	Player Count: 3 / 20; [EntityPlayerMP['RubenGlam'/127, l='IsGlamV', x=-276,46, y=72,25, z=691,71], EntityPlayerMP['Fedegio'/130, l='IsGlamV', x=-360,96, y=70,00, z=381,24], EntityPlayerMP['Robyboy17'/191, l='IsGlamV', x=-299,02, y=70,00, z=657,28]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
