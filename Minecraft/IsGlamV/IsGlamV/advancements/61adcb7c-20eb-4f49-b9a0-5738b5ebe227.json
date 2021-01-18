@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-01-17 17:47:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-01-15 23:10:56 +0100"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-01-17 23:44:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-01-15 23:53:21 +0100"
@@ -158,6 +170,12 @@
   "pixelmon:recipes/decorative/black_cushion_chair": {
     "criteria": {
       "has_wool": "2021-01-16 01:18:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-01-17 17:47:49 +0100"
     },
     "done": true
   },
@@ -246,6 +264,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-01-17 17:25:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-16 02:51:35 +0100"
@@ -261,6 +285,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-15 23:08:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2021-01-17 23:38:53 +0100"
     },
     "done": true
   },
@@ -303,6 +333,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-16 16:57:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-01-17 23:37:54 +0100"
     },
     "done": true
   },
@@ -425,6 +461,7 @@
       "cooked_cod": "2021-01-17 03:35:10 +0100",
       "bread": "2021-01-16 00:04:25 +0100",
       "beetroot": "2021-01-16 02:37:08 +0100",
+      "cooked_rabbit": "2021-01-17 18:40:53 +0100",
       "carrot": "2021-01-15 23:13:29 +0100"
     },
     "done": false
@@ -1041,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-01-17 17:26:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2021-01-16 03:09:25 +0100"
@@ -1165,6 +1208,12 @@
     "criteria": {
       "has_leppa": "2021-01-15 23:24:33 +0100",
       "has_case_recipe": "2021-01-15 23:53:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2021-01-17 17:24:03 +0100"
     },
     "done": true
   },
@@ -1830,6 +1879,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2021-01-16 22:10:09 +0100",
+      "frozen_river": "2021-01-17 18:01:02 +0100",
+      "taiga_cold_hills": "2021-01-17 18:06:45 +0100",
       "forest": "2021-01-16 00:02:55 +0100",
       "birch_forest": "2021-01-16 02:14:40 +0100",
       "deep_ocean": "2021-01-16 00:54:12 +0100",
@@ -1843,8 +1894,10 @@
       "taiga": "2021-01-15 23:06:47 +0100",
       "taiga_hills": "2021-01-15 23:05:11 +0100",
       "birch_forest_hills": "2021-01-16 15:53:18 +0100",
+      "taiga_cold": "2021-01-17 18:06:43 +0100",
       "ocean": "2021-01-15 23:17:25 +0100",
       "extreme_hills": "2021-01-16 00:09:44 +0100",
+      "roofed_forest": "2021-01-17 19:40:43 +0100",
       "cold_beach": "2021-01-16 22:10:06 +0100",
       "river": "2021-01-15 23:09:26 +0100",
       "jungle": "2021-01-16 00:56:09 +0100",
@@ -1870,10 +1923,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-01-17 23:37:54 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/red_vending_machine": {
     "criteria": {
       "has_the_recipe": "2021-01-16 22:04:52 +0100",
       "has_fresh_water": "2021-01-16 22:04:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-01-17 23:44:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-01-17 18:03:54 +0100"
     },
     "done": true
   },
@@ -2010,6 +2081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-01-17 23:37:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-01-16 01:38:57 +0100"
@@ -2031,6 +2108,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2021-01-16 03:17:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-01-17 23:44:02 +0100"
     },
     "done": true
   },

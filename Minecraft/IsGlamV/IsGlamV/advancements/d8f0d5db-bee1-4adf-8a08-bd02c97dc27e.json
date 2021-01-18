@@ -114,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-01-17 18:22:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-01-15 23:51:49 +0100"
@@ -384,6 +390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-01-17 18:32:36 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/brown_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-01-17 02:44:09 +0100"
@@ -468,6 +480,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-01-15 23:12:13 +0100"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine": {
+    "criteria": {
+      "has_monitor": "2021-01-17 21:51:10 +0100"
     },
     "done": true
   },
@@ -623,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-01-17 19:25:25 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/lures/lure_ha_weak": {
     "criteria": {
       "has_petaya": "2021-01-15 23:59:08 +0100",
@@ -741,6 +765,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-01-15 23:51:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-01-17 18:32:36 +0100"
     },
     "done": true
   },
@@ -1117,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2021-01-17 18:33:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-01-17 17:17:49 +0100"
@@ -1193,6 +1229,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-17 17:17:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2021-01-17 18:33:12 +0100"
     },
     "done": true
   },
@@ -1667,6 +1709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-01-17 18:33:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-01-15 23:10:45 +0100"
@@ -1858,6 +1906,7 @@
     "criteria": {
       "ice_flats": "2021-01-16 23:44:34 +0100",
       "frozen_river": "2021-01-16 23:48:17 +0100",
+      "taiga_cold_hills": "2021-01-17 18:06:44 +0100",
       "forest": "2021-01-15 23:48:25 +0100",
       "swampland": "2021-01-16 00:37:55 +0100",
       "birch_forest": "2021-01-16 00:28:39 +0100",
@@ -1900,6 +1949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-01-17 18:33:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2021-01-16 23:20:54 +0100"
@@ -1909,6 +1964,12 @@
   "pixelmon:recipes/machines/red_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-01-17 02:44:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-01-17 18:22:12 +0100"
     },
     "done": true
   },
@@ -1988,6 +2049,12 @@
   "pixelmon:recipes/decorative/cyan_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-01-17 02:44:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2021-01-17 18:33:12 +0100"
     },
     "done": true
   },
@@ -2072,6 +2139,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2021-01-16 16:56:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-01-17 18:22:12 +0100"
     },
     "done": true
   },
