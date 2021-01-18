@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-18 16:17:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2021-01-16 11:06:44 +0100"
@@ -296,6 +302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-01-18 15:45:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-01-16 17:36:50 +0100"
@@ -371,6 +383,12 @@
   "pixelmon:recipes/decorative/orange_cushion_chair": {
     "criteria": {
       "has_wool": "2021-01-16 18:41:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-18 16:17:36 +0100"
     },
     "done": true
   },
@@ -1089,6 +1107,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/dive_ball_capture": {
+    "criteria": {
+      "dive_ball_capture": "2021-01-18 16:29:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-01-16 11:14:20 +0100"
@@ -1127,6 +1151,7 @@
       "forest": "2021-01-16 11:24:13 +0100",
       "mesa_rock": "2021-01-16 14:48:48 +0100",
       "birch_forest": "2021-01-16 15:03:22 +0100",
+      "swampland": "2021-01-18 16:08:54 +0100",
       "deep_ocean": "2021-01-16 11:18:24 +0100",
       "beaches": "2021-01-16 11:02:36 +0100",
       "extreme_hills_with_trees": "2021-01-16 16:36:10 +0100",
@@ -1136,6 +1161,7 @@
       "savanna": "2021-01-16 11:19:44 +0100",
       "plains": "2021-01-16 11:23:08 +0100",
       "savanna_rock": "2021-01-16 11:36:41 +0100",
+      "ice_mountains": "2021-01-18 15:59:04 +0100",
       "taiga": "2021-01-16 11:02:14 +0100",
       "taiga_hills": "2021-01-16 11:01:22 +0100",
       "birch_forest_hills": "2021-01-16 15:03:31 +0100",

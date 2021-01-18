@@ -940,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-01-18 13:50:08 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/white_folding_chair": {
     "criteria": {
       "has_wool": "2021-01-16 02:12:10 +0100"
@@ -1030,6 +1036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-01-18 16:18:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-15 23:44:53 +0100"
@@ -1069,6 +1081,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-17 17:24:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-01-18 16:18:25 +0100"
     },
     "done": true
   },
