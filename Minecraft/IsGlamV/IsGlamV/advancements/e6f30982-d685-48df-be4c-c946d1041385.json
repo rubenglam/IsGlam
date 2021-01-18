@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2021-01-18 18:32:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-01-16 18:41:35 +0100"
@@ -134,6 +140,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2021-01-16 11:06:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-01-18 23:12:49 +0100"
     },
     "done": true
   },
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2021-01-16 18:41:35 +0100"
@@ -242,6 +260,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2021-01-16 11:02:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
     },
     "done": true
   },
@@ -332,6 +356,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2021-01-18 23:12:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2021-01-18 23:36:03 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/anvil": {
     "criteria": {
       "has_iron": "2021-01-16 17:36:50 +0100"
@@ -418,9 +454,10 @@
   },
   "pixelmon:recipes/lures/lure_ha_weak": {
     "criteria": {
+      "has_petaya": "2021-01-18 22:25:28 +0100",
       "has_case_recipe": "2021-01-16 17:36:50 +0100"
     },
-    "done": false
+    "done": true
   },
   "pixelmon:recipes/decorative/red_umbrella": {
     "criteria": {
@@ -471,6 +508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-01-16 11:07:50 +0100"
@@ -492,6 +535,18 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2021-01-16 15:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-01-18 23:12:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
     },
     "done": true
   },
@@ -564,6 +619,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2021-01-16 20:16:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-01-18 21:52:43 +0100"
     },
     "done": true
   },
@@ -651,6 +712,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/pc": {
     "criteria": {
       "has_aluminium_plate": "2021-01-16 11:40:53 +0100"
@@ -663,9 +736,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2021-01-16 19:18:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-01-18 23:13:23 +0100"
     },
     "done": true
   },
@@ -696,6 +781,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-01-16 18:41:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-01-18 23:13:23 +0100"
     },
     "done": true
   },
@@ -735,17 +826,36 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-01-18 21:57:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2021-01-16 11:08:22 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/lures/lure_type_weak": {
     "criteria": {
+      "has_leppa": "2021-01-18 16:46:01 +0100",
       "has_case_recipe": "2021-01-16 17:36:50 +0100"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-01-18 23:10:09 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
@@ -777,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-01-18 23:11:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2021-01-16 18:41:35 +0100"
@@ -798,6 +914,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2021-01-16 18:41:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
     },
     "done": true
   },
@@ -825,9 +947,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-01-18 23:11:30 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/blue_rug": {
     "criteria": {
       "has_wool": "2021-01-16 18:41:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2021-01-18 23:36:03 +0100"
     },
     "done": true
   },
@@ -861,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-01-18 18:10:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-01-16 15:33:34 +0100"
@@ -884,6 +1024,18 @@
       "great_ball_capture": "2021-01-16 16:43:07 +0100"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2021-01-18 18:32:15 +0100"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_ha_strong": {
+    "criteria": {
+      "has_petaya": "2021-01-18 22:25:28 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
@@ -1053,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-01-18 18:10:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-01-16 16:24:01 +0100"
@@ -1074,6 +1232,18 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2021-01-16 15:33:34 +0100"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/ranch": {
+    "criteria": {
+      "has_pc": "2021-01-18 23:12:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-01-18 21:52:43 +0100"
     },
     "done": true
   },
@@ -1160,6 +1330,8 @@
       "forest_hills": "2021-01-16 11:47:31 +0100",
       "savanna": "2021-01-16 11:19:44 +0100",
       "plains": "2021-01-16 11:23:08 +0100",
+      "jungle_hills": "2021-01-18 17:56:46 +0100",
+      "jungle_edge": "2021-01-18 17:56:39 +0100",
       "savanna_rock": "2021-01-16 11:36:41 +0100",
       "ice_mountains": "2021-01-18 15:59:04 +0100",
       "taiga": "2021-01-16 11:02:14 +0100",
@@ -1171,6 +1343,7 @@
       "roofed_forest": "2021-01-16 15:14:53 +0100",
       "cold_beach": "2021-01-16 21:20:57 +0100",
       "river": "2021-01-16 11:18:47 +0100",
+      "jungle": "2021-01-18 17:56:47 +0100",
       "desert": "2021-01-16 11:19:47 +0100",
       "stone_beach": "2021-01-16 19:36:41 +0100"
     },
@@ -1218,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2021-01-18 23:38:17 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/lures/lure_casing_weak": {
     "criteria": {
       "has_crystal": "2021-01-16 17:17:03 +0100",
@@ -1240,6 +1419,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2021-01-16 18:46:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-01-18 18:10:24 +0100"
     },
     "done": true
   },
@@ -1321,15 +1506,33 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-01-18 23:11:16 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/purple_umbrella": {
     "criteria": {
       "has_wool": "2021-01-16 18:41:35 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2021-01-18 18:10:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-01-16 16:24:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2021-01-18 23:12:49 +0100"
     },
     "done": true
   },
@@ -1360,6 +1563,12 @@
   "pixelmon:recipes/decorative/red_cushion_chair": {
     "criteria": {
       "has_wool": "2021-01-16 18:41:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2021-01-18 21:57:57 +0100"
     },
     "done": true
   },

@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2021-01-18 23:19:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-17 01:36:59 +0100"
@@ -1013,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-01-18 23:23:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-16 18:04:55 +0100"
@@ -1070,6 +1082,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-01-16 18:20:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-01-18 23:23:19 +0100"
     },
     "done": true
   },
@@ -1617,6 +1635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2021-01-18 23:23:34 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/lures/lure_casing_weak": {
     "criteria": {
       "has_crystal": "2021-01-16 18:24:26 +0100",
@@ -1723,6 +1747,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-16 18:04:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-01-18 23:23:19 +0100"
     },
     "done": true
   },
